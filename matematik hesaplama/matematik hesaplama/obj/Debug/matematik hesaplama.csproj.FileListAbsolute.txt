@@ -1,0 +1,20 @@
+C:\Users\90535\source\repos\matematik hesaplama\matematik hesaplama\bin\Debug\matematik hesaplama.exe.config
+C:\Users\90535\source\repos\matematik hesaplama\matematik hesaplama\bin\Debug\matematik hesaplama.exe
+C:\Users\90535\source\repos\matematik hesaplama\matematik hesaplama\bin\Debug\matematik hesaplama.pdb
+C:\Users\90535\source\repos\matematik hesaplama\matematik hesaplama\obj\Debug\matematik hesaplama.csproj.AssemblyReference.cache
+C:\Users\90535\source\repos\matematik hesaplama\matematik hesaplama\obj\Debug\matematik_hesaplama.Form1.resources
+C:\Users\90535\source\repos\matematik hesaplama\matematik hesaplama\obj\Debug\matematik_hesaplama.Properties.Resources.resources
+C:\Users\90535\source\repos\matematik hesaplama\matematik hesaplama\obj\Debug\matematik hesaplama.csproj.GenerateResource.cache
+C:\Users\90535\source\repos\matematik hesaplama\matematik hesaplama\obj\Debug\matematik hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\90535\source\repos\matematik hesaplama\matematik hesaplama\obj\Debug\matematik hesaplama.exe
+C:\Users\90535\source\repos\matematik hesaplama\matematik hesaplama\obj\Debug\matematik hesaplama.pdb
+C:\Users\90535\OneDrive\Masaüstü\c#example\matematik hesaplama\matematik hesaplama\bin\Debug\matematik hesaplama.exe.config
+C:\Users\90535\OneDrive\Masaüstü\c#example\matematik hesaplama\matematik hesaplama\bin\Debug\matematik hesaplama.exe
+C:\Users\90535\OneDrive\Masaüstü\c#example\matematik hesaplama\matematik hesaplama\bin\Debug\matematik hesaplama.pdb
+C:\Users\90535\OneDrive\Masaüstü\c#example\matematik hesaplama\matematik hesaplama\obj\Debug\matematik hesaplama.csproj.AssemblyReference.cache
+C:\Users\90535\OneDrive\Masaüstü\c#example\matematik hesaplama\matematik hesaplama\obj\Debug\matematik_hesaplama.Form1.resources
+C:\Users\90535\OneDrive\Masaüstü\c#example\matematik hesaplama\matematik hesaplama\obj\Debug\matematik_hesaplama.Properties.Resources.resources
+C:\Users\90535\OneDrive\Masaüstü\c#example\matematik hesaplama\matematik hesaplama\obj\Debug\matematik hesaplama.csproj.GenerateResource.cache
+C:\Users\90535\OneDrive\Masaüstü\c#example\matematik hesaplama\matematik hesaplama\obj\Debug\matematik hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\90535\OneDrive\Masaüstü\c#example\matematik hesaplama\matematik hesaplama\obj\Debug\matematik hesaplama.exe
+C:\Users\90535\OneDrive\Masaüstü\c#example\matematik hesaplama\matematik hesaplama\obj\Debug\matematik hesaplama.pdb
